@@ -75,17 +75,12 @@ git clone https://github.com/syedmaazsaeed/IOT-Based Real-Time Patient Health Mo
 
 Download and install the following libraries from the Arduino IDE Library Manager:
 
-1.LiquidCrystal_I2C
-
-2.ESP8266WiFi
-
-3.Ubidots
-
-4.MAX30100_PulseOximeter
-
-5.DallasTemperature
-
-6.OneWire
+1. LiquidCrystal_I2C
+2. ESP8266WiFi
+3. Ubidots
+4. MAX30100_PulseOximeter
+5. DallasTemperature
+6. OneWire
 
 5.3 Connect Hardware
 
