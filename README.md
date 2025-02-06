@@ -66,12 +66,12 @@ The real-time readings are displayed on the LCD for quick checks. 🖥️
 
 ## **5. Setup Instructions**
 
-### **5.1 Clone the Repository**
+### **5.1 Clone the Repository 🖥️**
 
 
 git clone https://github.com/syedmaazsaeed/IOT-Based-Real-Time Patient Health Monitoring System.git
 
-5.2 Install Libraries
+5.2 Install Libraries 📚
 
 Download and install the following libraries from the Arduino IDE Library Manager:
 
@@ -82,7 +82,7 @@ Download and install the following libraries from the Arduino IDE Library Manage
 5. DallasTemperature
 6. OneWire
 
-5.3 Connect Hardware
+5.3 Connect Hardware 🔌
 
 1. Connect the MAX30100 sensor to your ESP8266 (pins configured in the code).
 2. Connect the DS18B20 sensor to the OneWire bus.
@@ -93,18 +93,18 @@ Download and install the following libraries from the Arduino IDE Library Manage
 
 Upload the code to your ESP8266 using the Arduino IDE.
 
-5.5 View Data
+5.5 View Data 📊
 
 1. Open the serial monitor to view the console output.
 2. Connect to the Ubidots dashboard to view real-time health data.
 3. Monitor the LCD for immediate feedback on the patient's condition. 📱
 
 
-## **6: 🎯 Future Improvements**:
+## **6: 🎯 Future Improvements 🔮 **:
 
 6.1.  Machine Learning Integration: Use AI to analyze patterns in health data and predict potential health issues. 🤖
 6.2.  Mobile Application: Build a mobile app to receive real-time health data and alerts. 📲
-6.3.  Expand Sensor Suite: Add more sensors like ECG or pulse wave sensors for deeper health insights. 📊
+6.3.  Expand Sensor Suite: Add more detectors like ECG or pulse wave sensors for deeper health insights. 📊
 
 ## **7:💬 Connect with Us**:
 
