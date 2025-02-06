@@ -108,4 +108,4 @@ Upload the code to your ESP8266 using the Arduino IDE.
 
 ## **7:💬 Connect with Us**:
 
-Have questions or suggestions? Feel free to reach out via issues or email! Let’s innovate healthcare together! 🌍💡..
+Have thoughts or suggestions? Kindly get in touch via email or issues! Let's work together to innovate healthcare! 🎍🌍💡..
