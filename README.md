@@ -69,7 +69,7 @@ The real-time readings are displayed on the LCD for quick checks. 🖥️
 ### **5.1 Clone the Repository 🖥️**
 
 
-git clone https://github.com/syedmaazsaeed/IOT-Based-Real-Time Patient Health Monitoring System.git
+git clone https://github.com/syedmaazsaeed/IOT-Based-Real-Time-Patient-Health-Monitoring-System
 
 5.2 Install Libraries 📚
 
