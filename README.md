@@ -76,10 +76,15 @@ git clone https://github.com/syedmaazsaeed/IOT-Based Real-Time Patient Health Mo
 Download and install the following libraries from the Arduino IDE Library Manager:
 
 1.LiquidCrystal_I2C
+
 2.ESP8266WiFi
+
 3.Ubidots
+
 4.MAX30100_PulseOximeter
+
 5.DallasTemperature
+
 6.OneWire
 
 5.3 Connect Hardware
@@ -104,7 +109,7 @@ Upload the code to your ESP8266 using the Arduino IDE.
 
 1. Machine Learning Integration: Use AI to analyze patterns in health data and predict potential health issues. 🤖
 2. Mobile Application: Build a mobile app to receive real-time health data and alerts. 📲
-3. Expand Sensor Suite: Add additional sensors like ECG or pulse wave sensors for deeper health insights. 📊
+3. Expand Sensor Suite: Add more sensors like ECG or pulse wave sensors for deeper health insights. 📊
 
 💬 Connect with Us:
 
