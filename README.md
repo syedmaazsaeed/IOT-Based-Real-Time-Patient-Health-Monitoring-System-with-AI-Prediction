@@ -69,7 +69,7 @@ The real-time readings are displayed on the LCD for quick checks. 🖥️
 ### **5.1 Clone the Repository**
 
 
-git clone https://github.com/syedmaazsaeed/IOT-Based Real-Time Patient Health Monitoring System.git
+git clone https://github.com/syedmaazsaeed/IOT-Based-Real-Time Patient Health Monitoring System.git
 
 5.2 Install Libraries
 
@@ -102,10 +102,10 @@ Upload the code to your ESP8266 using the Arduino IDE.
 
 ## **6: 🎯 Future Improvements**:
 
-1. Machine Learning Integration: Use AI to analyze patterns in health data and predict potential health issues. 🤖
-2. Mobile Application: Build a mobile app to receive real-time health data and alerts. 📲
-3. Expand Sensor Suite: Add more sensors like ECG or pulse wave sensors for deeper health insights. 📊
+6.1. Machine Learning Integration: Use AI to analyze patterns in health data and predict potential health issues. 🤖
+6.2. Mobile Application: Build a mobile app to receive real-time health data and alerts. 📲
+6.3. Expand Sensor Suite: Add more sensors like ECG or pulse wave sensors for deeper health insights. 📊
 
-💬 Connect with Us:
+## **7:💬 Connect with Us**:
 
 Have questions or suggestions? Feel free to reach out via issues or email! Let’s innovate healthcare together! 🌍💡..
