@@ -54,6 +54,8 @@ The health metrics are continuously monitored for any abnormal readings.
 ### **4.3 Alert Mechanism**
 
 If abnormal conditions are detected (e.g., high temperature, low oxygen levels, irregular heart rate), the system activates a red LED and buzzer for alerting. 🆘
+If the system detects abnormal conditions like high temperature, low oxygen levels, or irregular heart rate, it activates a red LED for a visual alert and triggers a buzzer for an audible warning.
+This ensures immediate attention and helps in early detection of potential health risks, allowing for quick action. 🚨
 
 ### **4.4 Cloud Transmission**
 
