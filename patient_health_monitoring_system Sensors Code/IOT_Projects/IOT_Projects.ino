@@ -7,11 +7,11 @@
 #include <DallasTemperature.h>
 
 // WiFi credentials
-const char* ssid = "syedmaazsaeed";
-const char* password = "11000000";
+const char* ssid = "Wifi Name";
+const char* password = "Pass key";
 
 // Ubidots credentials
-const char* TOKEN = "BBUS-S0RqfZyU0YYsamLvwsb3oErnw3m948";
+const char* TOKEN = "Your Token ID";
 Ubidots ubidots(TOKEN);
 
 // Pins and Objects
