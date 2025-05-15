@@ -102,7 +102,7 @@ Upload the code to your ESP8266 using the Arduino IDE.
 3. Monitor the LCD for immediate feedback on the patient's condition. 📱
 
 
-## **6: 🎯 Future Improvements 🔮 **:
+## 6: 🎯 Future Improvements 🔮 :
 
 6.1.  Machine Learning Integration: Use AI to analyze patterns in health data and predict potential health issues. 🤖
 6.2.  Mobile Application: Build a mobile app to receive real-time health data and alerts. 📲
